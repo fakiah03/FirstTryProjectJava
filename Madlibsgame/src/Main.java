@@ -118,17 +118,7 @@ public class Main {
 
 
 
-        /*One day, Samantha, a sparkly explorer, packed her trusty toaster and set off to the mysterious land of Chickenburg. She had heard that exactly 47 years ago, a great treasure called the Zibblezorp was hidden there by ancient dancing monks.
-
-        As she trekked through the jungle filled with cupcakes, she was suddenly ambushed by a giant platypus!
-
-        “YIKES!” she screamed, leaping behind a tree.
-
-        But instead of attacking, the platypus handed her a map and said, “Spleenkle!” in a very polite voice.
-
-        With a shrug, Samantha continued her journey, munching on marshmallows and humming a tune. And that’s how she began the weirdest adventure of her life.
-
-*/
+        
 
     }
 }
